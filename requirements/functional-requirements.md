@@ -1,7 +1,8 @@
-#Functional Requirements
+# Functional Requirements
 
-## 1.User Management
+## 1. User Management
 The user will be able to register an account, log in to the account and log out of it.
+
 1.1 The system shall allow users to register, log in, manage their accounts, and update personal information through an interface.
 1.2 The system shall support registration, authentication, and access control for four distinct roles: Owner, Tenant, Supervisor, and Maintenance Provider.
 1.3 The system shall support account creation using either mobile number or email, and shall verify identity using a One-Time Password (OTP).
